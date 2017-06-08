@@ -4,10 +4,13 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
-	* Functions
-	* Parameters
-	* Arguments
-	* `if` statements
+	* Functions: Like how hotkeys in a videogame allow you to switch between different sets of armor, functions allow programmers to give a simple name to a complex block of code, and use it later.
+
+	* Parameters: Like the basic clothing on an MMO avatar when the user hasn't equipped any armor, parameters are placeholder of information within a function which allows programmers to pass on multiple different answers using the same function. They can be replaced by different sets of real armor, but until they are replaced with real armor, they simply show where the armor will go/what it will look like.
+
+	* Arguments: Like pieces of equipped armor that are built into a set to provide awesome stat bonuses, arguements are values that replace the parameters (placeholders) when the function is actually used.
+
+	* `if` statements: Like how Solar Beam deals more damage IF it's used in sunlight, or how Witcher armor grants a bigger bonus IF you have at least three pieces equipped, 'if' statements change the result of the function if a particular circumstance within the function is met.
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
